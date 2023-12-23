@@ -20,6 +20,7 @@ modup -v 1.21.5
 
 MIT
 
-## Contact
+## Author
 
-If you have any questions or suggestions, feel free to reach out to us at [pyotarou@gmail.com].
+Seitaro Fujigaki
+
